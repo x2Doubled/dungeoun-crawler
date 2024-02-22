@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="|H8J]%fT1ps5i:P$;u77">Player</variable><variable type="KIND_SpriteKind" id="$b;4%Z1@e4P{6rMySxwv">Projectile</variable><variable type="KIND_SpriteKind" id="M!@HsxA|:#,I|mbdCyc/">Food</variable><variable type="KIND_SpriteKind" id=":~gzzGnQJvH0YV0HEs:f">Enemy</variable></variables><block type="spritescreatenoset" id="Mj[y(z(y_xEpr},%#1KO" disabled="true" x="-110" y="-490"><value name="img"><shadow type="screen_image_picker" id="/aL%IfJD9PoMPTUwe1Cm" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"/aL%IfJD9PoMPTUwe1Cm"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="mz;.lkyPQk=egDqg_w`6" disabled="true"><field name="MEMBER">Player</field></shadow></value></block><block type="hudLife" id="95Rs=6UTIsddyODq]]6j" disabled="true" x="130" y="-390"></block><block type="pxt-on-start" id="dX}/HIZF=2m}R`lYP#qc" x="-280" y="-320"></block><block type="function_definition" id="!,Tn8N*;|vTeTgi8h|l@" x="0" y="0"><mutation name="Level" functionid="j#7Gojbe-;5H^LsLg]5*"><arg name="bool" id=":$aXpZD;(W5jCXxo_NFJ" type="boolean"></arg><arg name="list" id="vqZZ?MOZ=yFCUrxUmJ4Y" type="Array"></arg><arg name="mySprite" id="4cB6QR,8uLUXKBV*S)5l" type="Sprite"></arg></mutation><field name="function_name">Level</field><statement name="STACK"><block type="controls_if" id="OO~l*GKAG.]A:EVIqi#:"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_operation" id="8#Ltw7_^O[A|~Ck]r@mv"><field name="OP">AND</field></block></value></block></statement></block></xml>
